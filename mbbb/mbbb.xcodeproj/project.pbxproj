@@ -14,6 +14,7 @@
 		447741AD1B80EC1C00367DEA /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 447741AC1B80EC1C00367DEA /* Images.xcassets */; };
 		447741B01B80EC1C00367DEA /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 447741AE1B80EC1C00367DEA /* LaunchScreen.xib */; };
 		447741BC1B80EC1C00367DEA /* mbbbTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 447741BB1B80EC1C00367DEA /* mbbbTests.m */; };
+		447741C61B80EF1400367DEA /* 1.txt in Resources */ = {isa = PBXBuildFile; fileRef = 447741C51B80EF1400367DEA /* 1.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		447741B51B80EC1C00367DEA /* mbbbTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = mbbbTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		447741BA1B80EC1C00367DEA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		447741BB1B80EC1C00367DEA /* mbbbTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = mbbbTests.m; sourceTree = "<group>"; };
+		447741C51B80EF1400367DEA /* 1.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 1.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +91,7 @@
 				447741AC1B80EC1C00367DEA /* Images.xcassets */,
 				447741AE1B80EC1C00367DEA /* LaunchScreen.xib */,
 				4477419F1B80EC1C00367DEA /* Supporting Files */,
+				447741C51B80EF1400367DEA /* 1.txt */,
 			);
 			path = mbbb;
 			sourceTree = "<group>";
@@ -199,6 +202,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				447741C61B80EF1400367DEA /* 1.txt in Resources */,
 				447741AB1B80EC1C00367DEA /* Main.storyboard in Resources */,
 				447741B01B80EC1C00367DEA /* LaunchScreen.xib in Resources */,
 				447741AD1B80EC1C00367DEA /* Images.xcassets in Resources */,
@@ -416,6 +420,7 @@
 				447741C11B80EC1C00367DEA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		447741C21B80EC1C00367DEA /* Build configuration list for PBXNativeTarget "mbbbTests" */ = {
 			isa = XCConfigurationList;
@@ -424,6 +429,7 @@
 				447741C41B80EC1C00367DEA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
